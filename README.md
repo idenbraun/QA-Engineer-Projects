@@ -28,7 +28,7 @@
 - DevTools 
 - Postman (основы)
 - Git, GitHub 
-- Понимание HTTP / HTML / CSS
+- Понимание HTTP / HTML / CSS на уровне вёрстки — сделал [страницу-визитку](https://idenbraun.github.io/QA-Engineer/), чтобы лучше понимать фронтенд.
 
 ## 🧠 Как я работаю
 
