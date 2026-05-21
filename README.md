@@ -42,3 +42,4 @@
 - Telegram: [@idendie](https://t.me/idendie)
 - Email: idenbraun@yandex.ru
 
+## 💾 [Скачать резюме]()
