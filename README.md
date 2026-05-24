@@ -12,9 +12,9 @@
 
 | Тип артефакта | Объект тестирования | Ссылка |
 | ------------- | ------------------- | ------ |
-| 📋 Чек-лист | Личный кабинет | [henderson_functional_profile.md](https://github.com/idenbraun/QA-Engineer-Projects/blob/main/example_test_artifacts/checklists/henderson_functional_profile.md) |
-| 🔬 Тест-кейсы | Форма авторизации | [henderson_authorization.md](https://github.com/idenbraun/QA-Engineer-Projects/blob/main/example_test_artifacts/test-cases/henderson_authorization.md) |
-| 🔍 Баг-репорты | Главная страница, карточка товара | [henderson_bug_reports.md](https://github.com/idenbraun/QA-Engineer-Projects/blob/main/example_test_artifacts/bug-reports/henderson_bug_reports.md) |
+| 📋 Чек-лист | Личный кабинет | [henderson_functional_profile.md](https://github.com/idenbraun/QA-Engineer-Projects/blob/main/test-artifacts/checklists/henderson_functional_profile.md) |
+| 🔬 Тест-кейсы | Форма авторизации | [henderson_authorization.md](https://github.com/idenbraun/QA-Engineer-Projects/blob/main/test-artifacts/test-cases/henderson_authorization.md) |
+| 🔍 Баг-репорты | Главная страница, карточка товара | [henderson_bug_reports.md](https://github.com/idenbraun/QA-Engineer-Projects/blob/main/test-artifacts/bug-reports/henderson_bug_reports.md) |
 
 ---
 
