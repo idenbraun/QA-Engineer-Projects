@@ -4,7 +4,7 @@
 Сейчас активно изучаю автоматизацию тестирования на Java.   
 В этом репозитории я собрал примеры тестовой документации и примеры автотестов.
 
-💾 [Ознакомиться с моим резюме](https://github.com/idenbraun/QA-Engineer-Projects/blob/main/resume/%D0%98%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%20%D0%BF%D0%BE%20%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8E%20QA.pdf)
+💾 [Ознакомиться с моим резюме](https://github.com/idenbraun/Resume/blob/main/resume/Браун%20Денис%20Валентинович.pdf)
 
 ---
 
